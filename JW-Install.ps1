@@ -1,16 +1,4 @@
-################################################################################ 
-#
-#  Name    : F:\PS\App\jw\Form1.ps1  
-#  Version : 0.1
-#  Author  :
-#  Date    : 12/2/2022
-#
-#  Generated with ConvertForm module version 2.0.0
-#  PowerShell version 5.1.19041.1682
-#
-#  Invocation Line   : Convert-Form -Path $Source -Destination $Destination -Encoding ascii -force
-#  Source            : C:\Users\Bobby Dominguez\source\repos\BobCat\BobCat\Form1.Designer.cs
-################################################################################
+
 
 
 # Loading external assemblies
